@@ -1,0 +1,5 @@
+#!/bin/bash
+#Finder AutoInit.
+#Given the FinderEye's number, this script automatically sshs in.
+#"Written by "'Jake Hillard'
+
